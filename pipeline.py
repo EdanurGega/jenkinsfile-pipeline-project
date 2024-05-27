@@ -1,1 +1,1 @@
-print('my first python job')
+print('my first python')
